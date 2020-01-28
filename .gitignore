@@ -24,5 +24,25 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-!/.idea/
-!/webapp.iml
+/.idea/
+/webapp.iml
+/.idea/
+.idea/.gitignore
+.idea/artifacts/
+.idea/compiler.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+out/
+src/test/
+target/classes/application-context.xml
+target/generated-sources/
+target/maven-archiver/
+target/maven-status/
+target/web-1.0.0/META-INF/
+target/web-1.0.0/WEB-INF/web.xml
+target/web-1.0.0/index.jsp
+target/web-1.0.0/register.html
+target/web-1.0.0/secure/
+target/web-1.0.0/test.html
+webapp.iml
